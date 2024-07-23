@@ -14,6 +14,16 @@ This code consists of the following functions:
 - FireShot
 - CheckGameOver
 
+- GetMoveBot1
+- GetMoveBot2
+- GetMoveHuman
+- GetDisplayMapString
+- PlayOneGame
+- PlayBattleships
+- main
+- GetMoveBot1
+- GetMoveBot2
+
 The game has 3 game modes:
 - Human vs Human
 - Human vs Bot
